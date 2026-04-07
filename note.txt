@@ -14,3 +14,5 @@ asdasdasdasdasdasd
 Testing pull request
 tesing AI again ssdas
 Testing render deployment
+asdasdassdasd
+testing Go daemon ghost trigger
