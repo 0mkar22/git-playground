@@ -20,3 +20,5 @@ testing basecamps Kanban
 revamping the code
 testing basecamp 
 testing extenstion woth side bar
+
+i am here to test the Ai feature in the VS code
