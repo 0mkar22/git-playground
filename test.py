@@ -8,3 +8,4 @@ assert add(-1, 1) == 0, "Should be 0"
 print("All simple assertions passed!")
 
 print("Running more tests...")
+print("All simple assertions passed! asad")
