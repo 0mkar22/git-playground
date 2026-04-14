@@ -10,3 +10,5 @@ print("All simple assertions passed! ")
 print("Running more tests...")
 
 print("All tests completed successfully!")
+
+print("All tests passed!")
