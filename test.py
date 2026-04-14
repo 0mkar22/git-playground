@@ -12,3 +12,8 @@ print("Running more tests...")
 print("All tests completed successfully!")
 
 print("All tests passed!")
+
+a = 4
+b = 3
+result = add(a, b)
+print(f"The result of adding {a} and {b} is: {result}")
