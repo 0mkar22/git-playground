@@ -17,3 +17,8 @@ a = 4
 b = 3
 result = add(a, b)
 print(f"The result of adding {a} and {b} is: {result}")
+
+c = 10
+d = 4
+result2 = add(c, d)
+print(f"The result of adding {c} and {d} is: {result2}")
