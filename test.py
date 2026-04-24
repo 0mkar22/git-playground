@@ -34,6 +34,8 @@ print("All additional assertions passed! ")
 
 #testing TRON V3 BROADCAST
 
-#testing TRON V3 extension
+#testing TRON V3 BROADCAST again
 
-#Testing TRON V3 extension workflow
+#tesing TRON V3 BROADCAST to discord
+
+#testing TRON V3 extension
