@@ -55,3 +55,4 @@ print("All additional assertions passed! ")
 # testing the new backend which is made with Go lang
 # testing the new backend which is made with Go lang again
 # testing the new backend which is made with Go lang again and again
+# testing extension with Go backend
