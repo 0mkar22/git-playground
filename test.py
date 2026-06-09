@@ -58,3 +58,4 @@ print("All additional assertions passed! ")
 # testing extension with Go backend
 # testing pr close workflow
 # testing Jira integration again and PR workflow together
+# testing PR with Jira
