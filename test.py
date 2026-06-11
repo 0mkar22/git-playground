@@ -59,3 +59,5 @@ print("All additional assertions passed! ")
 # testing pr close workflow
 # testing Jira integration again and PR workflow together
 # testing PR with Jira
+# testing ticket creation with VsCode extension
+# testing linear integration with VsCode extension
